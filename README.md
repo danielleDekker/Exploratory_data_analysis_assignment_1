@@ -1,6 +1,7 @@
 # Exploratory_data_analysis_assignment_1
 
 This github repository contains the following scripts:
+
  - plot1.R
  - plot2.R
  - plot3.R
